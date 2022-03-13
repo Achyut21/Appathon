@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bHome"
+        android:title="Home"
+        android:icon="@drawable/home_vec"
+         app:cnb_backgroundColor="@color/orange"/>
+    <item
+        android:id="@+id/bSearch"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:cnb_backgroundColor="@color/orange"/>
+    <item
+        android:id="@+id/bCart"
+        android:title="Cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        app:cnb_backgroundColor="@color/orange"/>
+    <item
+        android:id="@+id/bReoder"
+        android:title="Reoder"
+        android:icon="@drawable/ic_baseline_restore_24"
+        app:cnb_backgroundColor="@color/orange"/>
+
+</menu>

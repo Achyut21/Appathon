@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359114716676",
+    "project_id": "appathon1-346fd",
+    "storage_bucket": "appathon1-346fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359114716676:android:c26e24c3316767e0c02751",
+        "android_client_info": {
+          "package_name": "com.example.appathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359114716676-fu5g1aia3rp76397gh0vfn9cqp0e8hmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSsdXdBN874PCIiilEwi3eUQk4vj9WB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359114716676-fu5g1aia3rp76397gh0vfn9cqp0e8hmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

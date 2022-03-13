@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/email_bg.xml" value="0.2395" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/getotp_button.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/ic_baseline_tag_faces_24.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/login_bg.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/login_button.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/loginbn_bg.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/next_button.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/otp_screen.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/otpf.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/search_shape.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/skip_button.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/verify.xml" value="0.2425" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/drawable/view_bg.xml" value="0.211" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_forgot_password.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_otp.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_splash_screen.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_ws1.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_ws2.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_ws3.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/activity_ws4.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/content_ws3.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/content_ws4.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_cart.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_reorder.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_second.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_second2.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/layout/fragment_second3.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/mipmap-anydpi-v26/google.xml" value="0.107" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.211" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Appathon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.211" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
